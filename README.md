@@ -1,4 +1,4 @@
-# BMI-CALCULATOR-IN-FLUTTER
+# BMI CALCULATOR
 fully BMI calculator consist of two screens 
 
 1. the first screen to get input from the user 
