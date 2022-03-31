@@ -1,7 +1,9 @@
 # BMI CALCULATOR
 fully BMI calculator consist of two screens 
-
-![Demo BMI Calculator](https://github.com/Abdelrhman2022/BMI-CALCULATOR/blob/master/Demo.gif)
+       
+<p align="center">
+  <img src="https://github.com/Abdelrhman2022/BMI-CALCULATOR/blob/master/Demo.gif" alt="Demo BMI Calculator" />
+</p>
 
 1. the first screen to get input from the user 
       
