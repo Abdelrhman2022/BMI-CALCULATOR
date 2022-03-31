@@ -1,6 +1,8 @@
 # BMI CALCULATOR
 fully BMI calculator consist of two screens 
 
+![Demo BMI Calculator](https://github.com/Abdelrhman2022/BMI-CALCULATOR/blob/master/Demo.gif)
+
 1. the first screen to get input from the user 
       
         gender by selecting its icon 
